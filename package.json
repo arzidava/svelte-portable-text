@@ -1,6 +1,6 @@
 {
   "name": "@arzidava/svelte-portable-text",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Portable Text for Svelte",
   "svelte": "src/index.js",
   "module": "dist/index.mjs",
