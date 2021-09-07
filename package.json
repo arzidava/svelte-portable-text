@@ -1,0 +1,36 @@
+{
+  "name": "@arzidava/svelte-portable-text",
+  "version": "0.0.1",
+  "description": "Portable Text for Svelte",
+  "svelte": "src/index.js",
+  "module": "dist/index.mjs",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "rollup -c",
+    "prepublishOnly": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arzidava/svelte-portable-text.git"
+  },
+  "keywords": [
+    "svelte",
+    "portable-text"
+  ],
+  "author": "Stephane Vanraes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arzidava/svelte-portable-text/issues"
+  },
+  "homepage": "https://github.com/arzidava/svelte-portable-text#readme",
+  "devDependencies": {
+    "@rollup/plugin-node-resolve": "^9.0.0",
+    "rollup": "^2.0.0",
+    "rollup-plugin-svelte": "^6.0.0",
+    "svelte": "^3.0.0"
+  },
+  "files": [
+    "src",
+    "dist"
+  ]
+}
