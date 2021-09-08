@@ -12,7 +12,7 @@ npm add --save-dev @arzidava/svelte-portable-text
 
 ```html
 <script>
-  import BlockContent from "@movingbrands/svelte-portable-text";
+  import BlockContent from "@arzidava/svelte-portable-text";
 
   import Image from "./Image";
   import Link from "./Link";
