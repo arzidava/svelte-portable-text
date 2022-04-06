@@ -1,3 +1,8 @@
+# ☣️ Deprecated
+
+> This package is deprecated and archived in favour of the official package that has been released https://github.com/portabletext/svelte-portabletext/
+
+
 # Portable Text for Svelte
 
 Provides a way to render [Portable Text](http://www.portabletext.org) in Svelte applications.
